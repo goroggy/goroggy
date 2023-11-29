@@ -2,7 +2,7 @@
 - 👀 I’m interested in text mining, AI, legal tech and health care IT.
 - 🌱 I’m currently learning generative AI.
 - 💞️ I’m looking to collaborate on legal and biomedical text mining.
-- 📫 How to reach me by goroggy@gmail.com.
+- 📫 How to reach me by email: goroggy@gmail.com.
 
 <!---
 goroggy/goroggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
